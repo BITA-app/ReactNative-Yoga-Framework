@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name = 'Yoga'
+  spec.name = 'ReactNative-Yoga'
   spec.version = "0.48.4.React"
   spec.license =  { :type => 'BSD' }
   spec.homepage = 'https://facebook.github.io/yoga/'
@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.description = 'Yoga is a cross-platform layout engine enabling maximum collaboration within your team by implementing an API many designers are familiar with, and opening it up to developers across different platforms.'
 
   spec.authors = 'Facebook'
-  spec.source = { :git => "https://github.com/greycats/yoga.git", :tag => "#{spec.version}" }
+  spec.source = { :git => "https://github.com/ericfuxealth/ReactNative-Yoga-Framework", :tag => "#{spec.version}" }
 
   spec.module_name = 'yoga'
   spec.requires_arc = false
