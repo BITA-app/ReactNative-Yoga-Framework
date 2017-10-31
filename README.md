@@ -1,0 +1,1 @@
+Builds a framework for Yoga so that it can be linked with React Native app.
