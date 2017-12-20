@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = 'ReactNative-Yoga'
-  spec.version = "0.48.4.React"
+  spec.version = "0.51.0.React"
   spec.license =  { :type => 'BSD' }
   spec.homepage = 'https://facebook.github.io/yoga/'
   spec.documentation_url = 'https://facebook.github.io/yoga/docs/api/c/'
